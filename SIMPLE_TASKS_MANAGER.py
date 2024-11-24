@@ -59,7 +59,3 @@ def main():
 
 if _name_ == "_main_":
     main()
-
-
-
-Ha send karto aaplya barila
